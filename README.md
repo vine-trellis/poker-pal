@@ -29,9 +29,11 @@ Coming soon.
 
 ## Credits
 
-Daniel Lee
-Robi Sanchez
-Dylan Conway
+SYDE 192L Group:
+
+* Daniel Lee
+* Robi Sanchez
+* Dylan Conway
 
 ## License
 
