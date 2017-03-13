@@ -1,0 +1,270 @@
+Welcome to Poker Pal!
+Test your odds by simulating a real poker game.
+You will be dealt 2 cards to begin with, you will then see the initial flop.
+Pressing 'Check' means you are ready to progress the game forward.
+If you would like to match the pot bet, press 'Bet'.
+To raise the bet, press 'Raise' until you are satisfied with the raise, then press 'Check'.
+Pressing 'Fold' will end the game.
+To find you what the odds are press 'Odds'.
+You have 10 seconds to make a decisions before Poker Pal ends your turn.
+
+ 
+ 
+ 
+ 
+Okay, here are your cards: 
+2d | 3c 
+Here's the Flop 
+9d | 3h | 2c 
+Press 'Odds' to see your chance of winning
+
+ 
+ 
+Pot odds are : 50.00%
+94% of holding a high card
+43% of making a pair
+36% of making a two pair
+36% of making a set [three of a kind]
+12% of making a straight
+9% of making a flush
+5% of making a full house
+7% of making a straight flush 
+ 
+ 
+
+
+You've Folded! Better luck next time.
+
+Pot size is : $20.00
+Current bet is : $10.00
+The round is over. 
+ 
+
+You took 7.02 seconds to play the round.
+You took 6.98 seconds to decide at the flop.
+
+You have $95.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+5d | 2h 
+Here's the Flop 
+6h | Td | 7h 
+Press 'Odds' to see your chance of winning
+
+ You have raised to $20.00
+
+ You have raised to $30.00
+
+ You have raised to $40.00
+
+You've Folded! Better luck next time.
+
+Pot size is : $20.00
+Current bet is : $40.00
+The round is over. 
+ 
+
+You took 7.21 seconds to play the round.
+You took 7.17 seconds to decide at the flop.
+
+You have $90.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+8c | 3d 
+Here's the Flop 
+8c | Tc | 2d 
+Press 'Odds' to see your chance of winning
+
+ You have raised to $20.00
+
+You matched the curent bet!
+
+Pot size is : $40.00
+Current bet is : $20.00
+The turn is: 
+Th 
+Pot size is : $40.00
+Current bet is : $10.00
+The river is: 
+9d 
+
+You pressed Check
+
+Pot size is : $40.00
+Current bet is : $10.00
+The round is over. 
+ 
+
+You took 17.41 seconds to play the round.
+You took 2.07 seconds to decide at the flop.
+You took 10.00 seconds to decide at the turn.
+You took 5.29 seconds to decide at the river.
+
+You have $65.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+Ad | 6c 
+Here's the Flop 
+8c | 2h | 6c 
+Press 'Odds' to see your chance of winning
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The turn is: 
+5d 
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The river is: 
+3d 
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The round is over. 
+ 
+
+You took 3.89 seconds to play the round.
+You took 3.12 seconds to decide at the flop.
+You took 0.13 seconds to decide at the turn.
+You took 0.57 seconds to decide at the river.
+
+You have $60.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+9h | 8h 
+Here's the Flop 
+Jd | 9h | 2c 
+Press 'Odds' to see your chance of winning
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The turn is: 
+Ah 
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The river is: 
+2h 
+
+You pressed Check
+
+Pot size is : $20.00
+Current bet is : $10.00
+The round is over. 
+ 
+
+You took 2.66 seconds to play the round.
+You took 1.68 seconds to decide at the flop.
+You took 0.45 seconds to decide at the turn.
+You took 0.46 seconds to decide at the river.
+
+You have $55.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+2d | 2d 
+Here's the Flop 
+Jh | Ac | 6c 
+Press 'Odds' to see your chance of winning
+
+You matched the curent bet!
+
+Pot size is : $30.00
+Current bet is : $10.00
+The turn is: 
+Jh 
+
+ You have raised to $20.00
+
+You've Folded! Better luck next time.
+
+Pot size is : $30.00
+Current bet is : $20.00
+The round is over. 
+ 
+
+You took 5.15 seconds to play the round.
+You took 3.51 seconds to decide at the flop.
+You took 1.57 seconds to decide at the turn.
+
+You have $40.00 remaining.
+
+ 
+ 
+ Okay, here are your cards: 
+2h | Qc 
+Here's the Flop 
+9h | 7h | Qh 
+Press 'Odds' to see your chance of winning
+
+ You have raised to $20.00
+
+ You have raised to $30.00
+
+ You have raised to $40.00
+
+You matched the curent bet!
+
+Pot size is : $60.00
+Current bet is : $40.00
+The turn is: 
+Jc 
+
+You've Folded! Better luck next time.
+
+Pot size is : $60.00
+Current bet is : $10.00
+The round is over. 
+ 
+
+You took 5.11 seconds to play the round.
+You took 4.07 seconds to decide at the flop.
+You took 0.98 seconds to decide at the turn.
+
+You ran out of money. I'll give you some more. Please don't become addicted to gambling.
+
+ 
+ 
+ Okay, here are your cards: 
+3h | Td 
+Here's the Flop 
+Ac | Th | 9c 
+Press 'Odds' to see your chance of winning
+
+ 
+ 
+Pot odds are : 50.00%
+61% of holding a high card
+46% of making a pair
+33% of making a two pair
+33% of making a set [three of a kind]
+15% of making a straight
+2% of making a flush
+12% of making a full house
+2% of making a straight flush 
+ 
+ 
+
+Pot size is : $20.00
+Current bet is : $10.00
+The turn is: 
+4c 
