@@ -10,7 +10,7 @@ Connect an Arduino to your computer, and use the Arduino application to compile 
 
 This project was designed and tested for use on the Arduino Uno. It will probably run on other Arduino units, so long as the memory permits.
 
-## Featurse yet to come
+## Features yet to come
 
 * Realistic odds
 * Schematic diagram of the Arduino circuit
